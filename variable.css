@@ -1,3 +1,6 @@
 :root{
-    --bg-col: #1D1D1F
+    --bg-col: #1D1D1F;
+    --border-col: rgba(165, 185, 206, 0.2);
+    --poke-col: #ff981f;
+    --mute-col:#a1a1a6;
 }
